@@ -34,6 +34,7 @@ end
 
 gem 'puma'
 gem 'newrelic_rpm'
+gem 'pry'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
